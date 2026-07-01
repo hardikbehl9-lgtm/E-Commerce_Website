@@ -6,7 +6,7 @@ A high-end, responsive glassmorphism web application built with React, Vite, and
 
 ## 🚀 Live Deployment
 Click the link below to view the application live in production:
-👉 **[Live Storefront Showcase](https://e-commerce-website-seven-psl-93.vercel.app)**
+👉 **[Live Storefront Showcase]https://e-commerce-website-seven-psi-93.vercel.app/)**
 
 ## ✨ Key System Features
 * **Premium Glassmorphism UI:** Backdrop filters and clean hover transformations.
